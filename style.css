@@ -1,0 +1,14 @@
+.nav{
+    background-color: #A0C0F7;
+}
+#main_text{
+    margin:1.5% 2%;
+    font-size: 300%;
+    font-family: "Montserrat Regular";
+    color: #005BC4;
+}
+.container{
+    height: 100px;
+    position: absolute;
+    background-color: black;
+}
